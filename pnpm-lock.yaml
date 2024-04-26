@@ -9,7 +9,7 @@ overrides:
 
 dependencies:
   node:
-    specifier: ^18.14.2
+    specifier: ^18.20.2
     version: 18.20.2
 
 devDependencies:
